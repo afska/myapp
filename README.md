@@ -2,12 +2,11 @@
 
 ```js
 // TODO: Replace `myapp` with the app name
-// TODO: rm -rf .git && git init
 ```
 
 ## Install
 
-```
+```bash
 # install nvm & node
 npm install
 ```
@@ -30,7 +29,7 @@ npm install
 - Build for Windows:
   `npm run build:windows`
 - Build for Linux:
-	`npm run build:linux`
+  `npm run build:linux`
 
 ### Shared:
 
