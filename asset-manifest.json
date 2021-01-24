@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.f82e05b7.chunk.css",
+    "main.js": "/myapp/static/js/main.719dc2b1.chunk.js",
+    "runtime-main.js": "/myapp/static/js/runtime-main.15248328.js",
+    "static/js/2.f2711f13.chunk.js": "/myapp/static/js/2.f2711f13.chunk.js",
+    "index.html": "/myapp/index.html",
+    "static/js/2.f2711f13.chunk.js.LICENSE.txt": "/myapp/static/js/2.f2711f13.chunk.js.LICENSE.txt",
+    "static/media/custom.css": "/myapp/static/media/background.dfbdf1ec.png",
+    "static/media/theme.css": "/myapp/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15248328.js",
+    "static/js/2.f2711f13.chunk.js",
+    "static/css/main.f82e05b7.chunk.css",
+    "static/js/main.719dc2b1.chunk.js"
+  ]
+}
